@@ -20,7 +20,7 @@ This project explores HR analytics data to uncover trends in employee engagement
 
 ## Visuals  
 ### *Satisfaction Score by Termination Status*  
-![Satisfaction Boxplot](link-to-image.png)  
+![Satisfaction Boxplot](satisfaction_score.png)  
 
 ## How to Use  
 1. Clone the repository:  
